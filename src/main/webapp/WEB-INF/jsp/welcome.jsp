@@ -11,7 +11,7 @@
 <body>
 <div class="container">
     <jsp:include page="fragments/bodyHeader.jsp"/>
-    <h2>Hello World 12.14.2017 6:30PM</h2>
+    <h2>Hello World 12.14.2017 6:33PM</h2>
     <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
     <img src="${petsImage}"/>
 
