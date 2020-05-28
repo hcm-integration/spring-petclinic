@@ -12,7 +12,7 @@
 <div class="container">
     <jsp:include page="fragments/bodyHeader.jsp"/>
     <!---<h2><fmt:message key="welcome2mycliqr Demo v1"/></h2>--->
-    <h2>Welcome To petclinic app</h2> 
+    <h2>Welcome To petclinic Application</h2> 
     <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
     <img src="${petsImage}"/>
 
